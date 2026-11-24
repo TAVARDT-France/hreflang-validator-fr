@@ -1,14 +1,13 @@
 # Validateur de Balises Hreflang et Architecture SEO Internationale
 
 [![Validateur Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-balises-hreflang/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit de reciprocite des liens alternatifs, ciblage linguistique et regional et conformite x-default.
 
-Developpe et maintenu par la division d'ingenierie semantique et d'architecture internationale de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par la division d'ingenierie semantique et d'architecture internationale de **TAVARDT France**.
 
----
+***
 
 ## Capacites d'Audit Hreflang et SEO International
 
@@ -18,7 +17,7 @@ Developpe et maintenu par la division d'ingenierie semantique et d'architecture 
 * **Coherence avec la Balise Canonique**: Detection des divergences critiques entre balise canonical et balise hreflang auto-referencielle.
 * **Score de Conformite Multilingue**: Note quantitative de 0 a 100 avec synthese des anomalies prioritaires.
 
----
+***
 
 ## Installation et Execution
 
@@ -33,20 +32,20 @@ python hreflang_validator.py https://entreprise.fr
 Pour generer un rapport au format structure JSON:
 
 ```bash
-python hreflang_validator.py https://entreprise.fr --json
+python hreflang_validator.py https://entreprise.fr -json
 ```
 
----
+***
 
 ## Diagnostic Complet sur le Web
 
 Pour les audits approfondis de vos plateformes internationales:
 
-* **[Validateur de Balises Hreflang Officiel](https://tools.tavardt.com/fr/validateur-balises-hreflang/)**
+* **Validateur de Balises Hreflang Officiel**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil en SEO International et Architecture de Donnees
 
-Pour structurer vos deploiments internationaux selon Normes W3C et Recommandations ANSSI, consultez l'equipe de **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour structurer vos deploiments internationaux selon Normes W3C et Recommandations ANSSI, consultez l'equipe de **TAVARDT France**.
