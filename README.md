@@ -49,3 +49,7 @@ Pour les audits approfondis de vos plateformes internationales:
 ## Conseil en SEO International et Architecture de Donnees
 
 Pour structurer vos deploiments internationaux selon Normes W3C et Recommandations ANSSI, consultez l'equipe de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
