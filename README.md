@@ -6,8 +6,6 @@
 
 Audit de reciprocite des liens alternatifs, ciblage linguistique et regional et conformite x-default.
 
-Developpe et maintenu par la division d'ingenierie semantique et d'architecture internationale de **TAVARDT**.
-
 ***
 
 ## Capacites d'Audit Hreflang et SEO International
@@ -38,15 +36,6 @@ python hreflang_validator.py https://entreprise.fr -json
 
 ***
 
-## Diagnostic Complet sur le Web
-
-Pour les audits approfondis de vos plateformes internationales:
-
-* **Validateur de Balises Hreflang Officiel**
-* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Conseil en SEO International et Architecture de Donnees
 
 Pour structurer vos deploiments internationaux selon Normes W3C et Recommandations ANSSI, consultez l'equipe de **TAVARDT**.
@@ -62,7 +51,7 @@ Pour structurer vos deploiments internationaux selon Normes W3C et Recommandatio
 ***
 
 ### Licence
-Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la Licence MIT.
 
 ***
 
