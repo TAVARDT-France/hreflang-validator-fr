@@ -2,6 +2,7 @@
 
 [![Validateur Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-balises-hreflang/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit de reciprocite des liens alternatifs, ciblage linguistique et regional et conformite x-default.
 
@@ -57,6 +58,11 @@ Pour structurer vos deploiments internationaux selon Normes W3C et Recommandatio
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
