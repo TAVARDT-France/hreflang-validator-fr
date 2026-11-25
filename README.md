@@ -66,15 +66,6 @@ Le script applique la norme ISO 639-1 pour les codes de langue a deux lettres et
 
 ***
 
-## Diagnostic en Ligne
-
-Pour des audits approfondis et des tests visuels de balisage international:
-
-* [Validateur Hreflang](https://tools.tavardt.com/fr/validateur-balises-hreflang/)
-* [Portail Institutionnel](https://ag.tavardt.com/fr/)
-
-***
-
 ## Conseil en SEO International et Deploiement Global
 
 Pour l architecture multilingue et l alignement avec les standards W3C, sollicitez l expertise de **TAVARDT**.
